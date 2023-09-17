@@ -3,28 +3,22 @@
 
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/eduhome)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/eduhome?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/eduhome?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/dMZujoGxjRo?style=social)](https://youtu.be/dMZujoGxjRo)
+  ![GitHub repo size](https://img.shields.io/github/awkwardpy/CPP-Projects)
+  ![GitHub stars](https://img.shields.io/github/stars/awkwardpy/awkwardpy?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/awkwardpy/awkwardpy?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/awkwardpy_?style=social)](https://twitter.com/intent/follow?screen_name=coder_af)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/dMZujoGxjRo?style=social)](https://youtu.be/xddedits)
 
   <br />
   <br />
 
-  <h2 align="center">EduHome - Education website</h2>
+  <h2 align="center">CPP - Projects</h2>
 
-  EduHome is a fully responsive education website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/eduhome/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
-
-![EduHome Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -39,18 +33,18 @@ To run **EduHome** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/eduhome.git
+sudo git clone https://github.com/awkwardpy/CPP-Projects.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/eduhome.git
+git clone https://github.com/awkwardpy/CPP-Projects.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/coder_af).
 
 ### License
 
