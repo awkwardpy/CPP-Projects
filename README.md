@@ -3,7 +3,6 @@
 
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/awkwardpy/CPP-Projects)
   ![GitHub stars](https://img.shields.io/github/stars/awkwardpy/awkwardpy?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/awkwardpy/awkwardpy?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/awkwardpy_?style=social)](https://twitter.com/intent/follow?screen_name=coder_af)
@@ -28,7 +27,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **EduHome** locally, run this command on your git bash:
+To run **CPP Projects** locally, run this command on your git bash:
 
 Linux and macOS:
 
